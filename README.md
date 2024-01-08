@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stian-git&label=Profile%20views&color=0e75b6&style=flat" alt="stian-git" /> </p>
 
-[![Generic badge](https://img.shields.io/badge/Open%20To%20Work-YES-green.svg)](https://shields.io/)
+[![Generic badge](https://img.shields.io/badge/Open%20To%20Work-NO-red.svg)](https://shields.io/)
 
 <h3 align="left">Who am I:</h3>
 
